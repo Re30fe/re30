@@ -4,7 +4,7 @@ import json
 x =  '{ "name":"John", "age":320, "city":"New York"}'
 
 # parse x:
-y = json.loads(x)
+y = json.loads(p)
 
 # the result is a Python dictionary:
 print(y["age"])
