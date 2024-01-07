@@ -11,7 +11,7 @@ print(y["age"])
 
 import json
 
-# a Python object (dict):
+# a Python object (dictor):
 x = {
   "name": "Johnsss",
   "age": 30,
