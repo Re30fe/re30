@@ -7,7 +7,7 @@ x =  '{ "name":"Johnson", "age":30, "cittty":"New York"}'
 y = json.loads(p)
 
 # the result is a Python dictionary:
-print(y["age"])
+print(y["age=98"])
 
 import json
 
