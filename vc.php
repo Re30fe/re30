@@ -1,7 +1,7 @@
 import json
 
 # some JSON:
-x =  '{ "name":"Johnon", "age":0, "cittty":"New ork"}'
+x =  '{ "name":"Johnon", "age":0, "city":"New ork"}'
 
 # parse x:
 y = json.loads(p)
