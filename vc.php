@@ -1,4 +1,4 @@
-import json
+import jsonee
 
 # some JSON:
 x =  '{ "name":"Johnon", "age":0, "city":"New ork"}'
