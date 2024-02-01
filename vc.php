@@ -6,7 +6,7 @@ x =  '{ "name":"Johnon", "age":, "city":"New rk"}'
 # parse x:
 y = json.loads(p)
 
-# the result is a Python ditionary:
+# the result is a Python ditinary:
 print(y["age=98"])
 
 import json
