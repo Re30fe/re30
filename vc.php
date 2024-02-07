@@ -1,7 +1,7 @@
 import jsonee
 
 # some JSON:
-x =  '{ "name":"Johon", "ae":, "city":"N rk"}'
+x =  '{ "name":"Johon", "ae":, "city":"Nrk"}'
 
 # parse x:
 y = json.loads(p)
