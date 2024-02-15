@@ -1,6 +1,6 @@
 import jsonee
 
-# some JSON:
+# some SON:
 x =  '{ "name":"Johon", "ae":, "ciy":"t"}'
 
 # parse x:
