@@ -1,4 +1,4 @@
-import jsonee
+import jsoee
 
 # some SON:
 x =  '{ "name":"Johon", "ae":, "ciy":"t"}'
