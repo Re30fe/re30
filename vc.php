@@ -1,6 +1,6 @@
 import jsoee
 
-# some SON:
+# some SN:
 x =  '{ "name":"Johon", "ae":, "ciy":"t"}'
 
 # parse x:
