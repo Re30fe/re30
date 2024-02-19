@@ -1,7 +1,7 @@
 import jsoee
 
 # some SN:
-x =  '{ "name":"Johon", "ae":, "ciy":"t"}'
+x =  '{ "ne":"Johon", "ae":, "ciy":"t"}'
 
 # parse x:
 y = json.loads(p)
