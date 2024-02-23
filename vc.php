@@ -1,7 +1,7 @@
 iport soee
 
 # some SN:
-x =  '{ "n:"Johon", "ae":, "ciy":"t"}'
+x =  '{ "n:"Jon", "ae":, "ciy":"t"}'
 
 # parse x:
 y = json.loads(p)
