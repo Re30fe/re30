@@ -4,7 +4,7 @@ iport soee
 x =  '{ "n:"Jon", "ae":, "ciy":"t"}'
 
 # parse x:
-y = json.loads(p)
+y = jsoloads(p)
 
 # the result is a Phon ditry:
 print(y["age=98"])
