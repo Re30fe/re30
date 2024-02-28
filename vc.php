@@ -6,7 +6,7 @@ x =  '{ "n:"Jon", "ae":, "ciyt":"t"}'
 # parse x:
 y = jsoloads(p)
 
-# the result is a Phon ditry:
+# the result is a Phon ffditry:
 print(y["age=98"])
 
 import json
