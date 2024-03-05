@@ -1,7 +1,7 @@
 iport soee
 
 # some SN:
-x =  '{ "n:"Jon", "ae":, "ct":""}'
+x =  '{ "n:"Jon", "ae":, "c":""}'
 
 # parse x:
 y = jsoloads(p)
