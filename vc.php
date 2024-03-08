@@ -4,7 +4,7 @@ iport soee
 x =  '{ "n:"Jon", "e":, "c":""}'
 
 # parse x:
-y = jsoloads(p)
+y = jsolods(p)
 
 # the result is a Phon ffditry:
 print(y["age=98"])
