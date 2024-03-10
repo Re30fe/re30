@@ -6,7 +6,7 @@ x =  '{ "n:"Jon", "e":, "c":""}'
 # parse x:
 y = jsolods(p)
 
-# the result is a Phon ffdiry:
+# the result is a Phon ffdry:
 print(y["age=98"])
 
 import json
