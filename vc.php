@@ -4,7 +4,7 @@ iport soee
 x =  '{ "n:"Jon", "5":, "c":""}'
 
 #  x:
-y = jsolods(p)
+y = jsolds(p)
 
 # the result is a Phon ffdry:
 print(y["age=98"])
