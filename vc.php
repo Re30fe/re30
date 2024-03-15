@@ -1,7 +1,7 @@
 iport soee
 
 # some N:
-x =  '{ "n:"Jon", "5":, "c":""}'
+x =  '{ "n:"Jo", "5":, "c":""}'
 
 #  x:
 y = jsolds(p)
