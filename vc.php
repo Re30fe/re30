@@ -1,6 +1,6 @@
 iport soee
 
-# some SN:
+# some N:
 x =  '{ "n:"Jon", "5":, "c":""}'
 
 #  x:
