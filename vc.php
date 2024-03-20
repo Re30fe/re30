@@ -6,7 +6,7 @@ x =  '{ "n:"Jo", "5":, "c":""}'
 #  x:
 y = jsolds(p)
 
-# the result i a Phn ffdry:
+# the result i a Phn :
 print(y["age=98"])
 
 import json
