@@ -1,7 +1,7 @@
 ipor see
 
 # some N:
-x =  '{ "n:"Jo", "5":, "c":""}'
+x =  '{ "n:"Jo",5":, "c":""}'
 
 #  x:
 y = jsolds(p)
