@@ -13,7 +13,7 @@ import json
 
 # a Python object (dicor):
 x = {
-  "name": "Johnsss",
+  "name": "Jonsss",
   "age": 2301122,
   "city": "New York"
 }
