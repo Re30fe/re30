@@ -7,7 +7,7 @@ x =  '{ "n:"Jo",5":, "c":""}'
 y = jsolds(p)
 
 # the result i a Ph:
-print(y["age=908"])
+print(y["age=90"])
 
 import json
 
